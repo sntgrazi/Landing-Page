@@ -1,6 +1,6 @@
 # Landing Page - Padaria Doce Sabor
 
-#Deploy
+## Deploy
 - https://padaria-doce-sabor.vercel.app/
 
 ## Descrição
